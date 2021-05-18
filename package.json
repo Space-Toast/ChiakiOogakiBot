@@ -1,0 +1,23 @@
+{
+  "name": "chiakioogakibot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Space-Toast/ChiakiOogakiBot.git"
+  },
+  "author": "SpaceToast",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Space-Toast/ChiakiOogakiBot/issues"
+  },
+  "homepage": "https://github.com/Space-Toast/ChiakiOogakiBot#readme",
+  "dependencies": {
+    "dotenv": "^9.0.2",
+    "twitter-api-client": "^1.3.8"
+  }
+}
